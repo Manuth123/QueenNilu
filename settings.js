@@ -7,12 +7,12 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['94761613447'] //ur owner number
+global.ownername = "𝙼𝚁.𝙼𝚊𝚗𝚞𝚝𝚑 𝙻𝚊𝚔𝚍𝚒𝚟" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
-global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
+global.botname = '𝙼𝚂 𝙱𝙾𝚃 𝚅2' //ur bot name
+global.wm = "𝙼𝚂 𝙱𝙾𝚃 𝚅2" //ur watermark
 
 global.keyopenai = "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",
 //React Messages 
@@ -45,7 +45,7 @@ global.INBOX_BLOCK_MSG = 'blockedd'
 global.ANTI_BADWORD = 'true'
 
 
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 QUEEN NILU ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ᴹᴿ| 𝙼𝙰𝙽𝚄𝚃𝙷 𝙻𝚊𝚔𝚍𝚒𝚟²⁰²³'
 
 // Menu imoji 
 global.MENU_IMOJI = '💃|🧸'
@@ -71,7 +71,7 @@ global.websitex = "https://youtu.be/c/janithsadanuwan" //ur website to be displa
 global.botscript = 'https://github.com/janithsadanuwan/QueenNilu' //script link
 
 //Alive 
-global.alivelogo = process.env.ALIVE_LOGO || `https://te.legra.ph/file/a9293226a7c660ecbfffb.jpg`
+global.alivelogo = process.env.ALIVE_LOGO || `https://i.postimg.cc/4xkv9KJ4/20230502-145900.jpg`
 global.alive = process.env.ALIVE_MESSAGE 
 
 //Sticker Making 
